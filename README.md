@@ -1,24 +1,24 @@
-- 👋 Hi, I’m @Arbaz-Ahamd-Ansari
-- 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on Projects
-- 📫 for contact mail me on arbazahmadansari03@gmail.com
+# 👋 Hi there, I'm Arbaz Ahmad Ansari  
 
-->><<- Here My Proects Demo Links ->><<-
+🚀 A passionate MERN Stack Developer with a strong focus on **CSS, UI/UX, and modern web design**.  
+💻 Skilled in building responsive and user-friendly web apps using:  
+- HTML, CSS, JavaScript, React.js, Node.js  
+- MongoDB, Express.js  
+- Bootstrap, TailwindCSS  
 
-1. Smart Heritage Tour - https://arbaz-ansari-abm.github.io/Smart-Heritage-Tour/
+📌 Currently exploring **AI-powered web solutions** and **mobile app development with React Native**.  
+🤝 Open to collaboration, freelancing, and open-source contributions.  
 
-2. Portfolio - https://arbaz-ansari-abm.github.io/Portfolio/
+---
 
-3. Netflix-Clone - https://arbaz-ansari-abm.github.io/Netflix-Clone/
- 
-4. Batman - https://arbaz-ansari-abm.github.io/Batman-Website/
+## 🛠️ Tech Stack:
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, TailwindCSS, Bootstrap  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **Tools**: Git, GitHub, VS Code, Postman  
 
-5. Stone-Paper-Scissors - https://arbaz-ansari-abm.github.io/Stone-Paper-Scissors/
+---
 
-6. Tic-Tac-Toe - https://arbaz-ansari-abm.github.io/TIc-Tac-Toe/
-
-7. Currency-Convertor - https://arbaz-ansari-abm.github.io/Currency-Convertor/
-
-8. Digital-Clock - https://arbaz-ansari-abm.github.io/Digital-Clock/
-
-9. Calculator - https://arbaz-ansari-abm.github.io/Calculator/
+## 🌐 Connect with me:
+📧 Email: arbaz.work@gmail.com  
+💼 LinkedIn: [Arbaz Ahmad Ansari](https://www.linkedin.com/in/arbaz-ahmad-ansari-a2b53621b/)  
+📷 Instagram: [@_mr_abm](https://www.instagram.com/_mr_abm/)  
