@@ -40,7 +40,7 @@
 <br>
 <br>
 <h1 align="center">->><<- Here My Proects Demo Links ->><<-</h1>
-1. Smart Heritage Tour - https://arbaz-ansari-abm.github.io/Smart-Heritage-Tour/
+1. Smart Heritage Tour - http://localhost/Smart-Heritage-Tour/
 
 2. Portfolio - https://arbaz-ansari-abm.github.io/Portfolio/
 
