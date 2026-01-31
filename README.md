@@ -42,7 +42,7 @@
 <h1 align="center">->><<- Here My Proects Demo Links ->><<-</h1>
 1. Smart Heritage Tour - http://localhost/Smart-Heritage-Tour/
 
-2. Portfolio - https://arbaz-ansari-abm.github.io/Portfolio/
+2. Portfolio - https://mrarbaz.netlify.app/
 
 3. Netflix-Clone - https://arbaz-ansari-abm.github.io/Netflix-Clone/
  
