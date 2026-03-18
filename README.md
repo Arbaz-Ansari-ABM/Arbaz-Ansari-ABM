@@ -40,22 +40,24 @@
 <br>
 <br>
 <h1 align="center">->><<- Here My Proects Demo Links ->><<-</h1>
-1. Smart Heritage Tour - http://localhost/Smart-Heritage-Tour/
-
-2. Portfolio - https://mrarbaz.netlify.app/
-
-3. Netflix-Clone - https://arbaz-ansari-abm.github.io/Netflix-Clone/
+1. Trendyx E-Commerce - https://trendxs.netlify.app
  
-4. Batman - https://arbaz-ansari-abm.github.io/Batman-Website/
+2. Smart Heritage Tour - http://localhost/Smart-Heritage-Tour/
 
-5. Stone-Paper-Scissors - https://arbaz-ansari-abm.github.io/Stone-Paper-Scissors/
+3. Portfolio - https://mrarbaz.netlify.app/
 
-6. Tic-Tac-Toe - https://arbaz-ansari-abm.github.io/TIc-Tac-Toe/
+4. Netflix-Clone - https://arbaz-ansari-abm.github.io/Netflix-Clone/
+ 
+5. Batman - https://arbaz-ansari-abm.github.io/Batman-Website/
 
-7. Currency-Convertor - https://arbaz-ansari-abm.github.io/Currency-Convertor/
+6. Stone-Paper-Scissors - https://arbaz-ansari-abm.github.io/Stone-Paper-Scissors/
 
-8. Digital-Clock - https://arbaz-ansari-abm.github.io/Digital-Clock/
+7. Tic-Tac-Toe - https://arbaz-ansari-abm.github.io/TIc-Tac-Toe/
 
-9. Calculator - https://arbaz-ansari-abm.github.io/Calculator/
+8. Currency-Convertor - https://arbaz-ansari-abm.github.io/Currency-Convertor/
+
+9. Digital-Clock - https://arbaz-ansari-abm.github.io/Digital-Clock/
+
+10. Calculator - https://arbaz-ansari-abm.github.io/Calculator/
 
 
