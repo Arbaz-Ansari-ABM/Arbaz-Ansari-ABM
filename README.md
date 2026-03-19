@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbaz-ansari-abm" alt="arbaz-ansari-abm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://arbaz-ansari-abm.github.io/Portfolio/](https://arbaz-ansari-abm.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://mrarbaz.netlify.app/
 
 - 📫 How to reach me **arbazahmadansari03@gmail.com**
 
