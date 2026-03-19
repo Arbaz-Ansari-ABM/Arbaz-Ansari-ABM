@@ -41,7 +41,7 @@
 <h1 align="center">->><<- Here My Proects Demo Links ->><<-</h1>
 1. Trendyx E-Commerce - https://trendxs.netlify.app
  
-2. Smart Heritage Tour - http://localhost/Smart-Heritage-Tour/
+2. Smart Heritage Tour - https://smartheritage.wuaze.com
 
 3. Portfolio - https://mrarbaz.netlify.app/
 
